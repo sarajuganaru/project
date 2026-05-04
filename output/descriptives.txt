@@ -1,0 +1,8 @@
+Descriptive Statistics (Mean ± SD, Count)
+==================================================
+         Age               MMSE           
+        mean   std count   mean  std count
+Group                                     
+A      66.39  7.89    36  17.75  4.5    36
+C      67.90  5.40    29  30.00  0.0    29
+

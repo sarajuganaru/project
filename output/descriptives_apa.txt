@@ -1,0 +1,6 @@
+Descriptive Statistics in APA Style
+Group	N	Age	MMSE
+----------------------------------------
+Alzheimer's	36	66.39 (7.89)	17.75 (4.50)
+Control	29	67.90 (5.40)	30.00 (0.00)
+

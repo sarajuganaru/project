@@ -1,0 +1,8 @@
+numpy
+scipy
+pyyaml
+mne
+torch
+matplotlib
+seaborn
+scikit-learn

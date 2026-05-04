@@ -1,0 +1,7 @@
+path_to_dataset: /Users/sarajuganaru/project/dataset/ds004504/derivatives
+epoch_length: 2.0
+overlap: 0.5
+subjects_file: "participants.tsv"
+sfreq: 500
+scalogram_dir: /Users/sarajuganaru/project/output/scalograms
+rsfreq: 216
