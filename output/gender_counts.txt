@@ -1,7 +1,0 @@
-Gender Counts by Group
-==============================
-Gender   F   M
-Group         
-A       24  12
-C       11  18
-
