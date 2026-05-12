@@ -4,4 +4,5 @@ overlap: 0.5
 subjects_file: "participants.tsv"
 sfreq: 500
 scalogram_dir: /Users/sarajuganaru/project/output/scalograms
-rsfreq: 216
+batch_size: 32
+epochs: 100
